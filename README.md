@@ -1,7 +1,7 @@
 # Gesture Action Recognition
 
 
-Input Image    Detection result
+Input Image || Detection result
 <div style="text-align:center;">
   
   <img src="./source/image1.jpg" alt="input image" height="300">
