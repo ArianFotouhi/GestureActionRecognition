@@ -1,14 +1,14 @@
 # Gesture Action Recognition
 
 
-Input Image
+Input Image    Detection result
 <div style="text-align:center;">
+  
   <img src="./source/image1.jpg" alt="input image" height="300">
-</div>
-Detection result
-<div style="text-align:center;">
   <img src="./source/result1.jpg" alt="result" height="300">
+
 </div>
+
 
 
 The application recognizes 15 body parts of a person by which the posture of person can be detected in each image or each video frame. Also, the x and y point of each body part can be used for detection a particular body movement like hand raising.
