@@ -5,7 +5,6 @@ Input Image
 <div style="text-align:center;">
   <img src="./source/image1.jpg" alt="input image" height="300">
 </div>
-
 Detection result
 <div style="text-align:center;">
   <img src="./source/result1.jpg" alt="result" height="300">
